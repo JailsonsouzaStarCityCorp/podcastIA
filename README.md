@@ -48,3 +48,12 @@ Cada episódio é totalmente automatizado, tornando o processo rápido, escaláv
 
 ## 📂 Estrutura Recomendada do Projeto
 
+📁 neuralcast/
+│── notebook/
+│ └── gerar_episodio.ipynb
+│── roteiro/
+│ └── episodio_01.txt
+│── audio/
+│ └── episodio_01.mp3
+│── README.md
+
